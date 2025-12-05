@@ -1,0 +1,9 @@
+streamlit
+librosa
+numpy
+torch
+transformers
+openai-whisper
+scikit-learn
+requests
+scipy
